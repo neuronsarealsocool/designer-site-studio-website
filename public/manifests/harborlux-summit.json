@@ -1,0 +1,69 @@
+{
+  "title": "Rainy harbour penthouse",
+  "assets": [
+    {
+      "id": "doors",
+      "role": "doors",
+      "type": "image/webp",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/doors.webp",
+      "bytes": 65306,
+      "sha256": "06d0c0450c3bcb68caaaa3036c7d9e3614aeee964604801d9f27874b6cd3d8dd"
+    },
+    {
+      "id": "aerial",
+      "role": "aerial",
+      "type": "image/webp",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/aerial.webp",
+      "bytes": 602076,
+      "sha256": "1db576c34239995e9cdcb076b2a5346335a84468ea21b706ac7c2b076858d7df"
+    },
+    {
+      "id": "back",
+      "role": "back",
+      "type": "image/webp",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/back.webp",
+      "bytes": 102182,
+      "sha256": "5bc565faace7611214c41a91083369b4297088e2c09ef0c2468f6c345b3f6d60"
+    },
+    {
+      "id": "mid",
+      "role": "mid",
+      "type": "image/webp",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/mid.webp",
+      "bytes": 468736,
+      "sha256": "ec487061e88e81e4dff5b82e780e59e231e8b829f7e3dea263b02ae03decfcdb"
+    },
+    {
+      "id": "front",
+      "role": "front",
+      "type": "image/webp",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/front.webp",
+      "bytes": 198422,
+      "sha256": "791922b3b165b9abfb4a1df10ddd0b5fd78d617a4571d0b8dfaa1f1f01c55332"
+    },
+    {
+      "id": "tilt",
+      "role": "tilt",
+      "type": "video/mp4",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/tilt.mp4",
+      "bytes": 10994339,
+      "sha256": "8a36caeabcba2f6eef82a382070eb73da058eeec7ed9babcd09540d832502ef0"
+    },
+    {
+      "id": "rain",
+      "role": "rain",
+      "type": "video/mp4",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/rain.mp4",
+      "bytes": 5766704,
+      "sha256": "27a9711a124160aa30d08bc61850469cbc61a3369e9ab8764d5205da6abb183a"
+    },
+    {
+      "id": "font",
+      "role": "font",
+      "type": "font/woff2",
+      "url": "https://lapis-slate-xvar.here.now/library/rainy-harbour-penthouse/media/font.woff2",
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    }
+  ]
+}

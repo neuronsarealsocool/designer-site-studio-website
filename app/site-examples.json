@@ -1,0 +1,108 @@
+{
+  "alpine-editorial": [
+    {
+      "label": "View live website",
+      "url": "https://frostwood-winter-retreat.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "coffee-product-carousel": [
+    {
+      "label": "View live website",
+      "url": "https://layer-coffee.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "architectural-landscape": [
+    {
+      "label": "View live website",
+      "url": "https://horizon-estates-homes.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "orbital-portals": [
+    {
+      "label": "View live website",
+      "url": "https://orbital-portals-matt.neuronsarealsocool.chatgpt.site"
+    },
+    {
+      "label": "View alternative build",
+      "url": "https://planet-jumping.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "electric-vehicle-explorer": [
+    {
+      "label": "View live website",
+      "url": "https://veyra.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "tower-room-tours": [
+    {
+      "label": "View live website",
+      "url": "https://choose-your-floor.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "cinematic-site-workflow": [
+    {
+      "label": "View workflow example",
+      "url": "https://kopi-coffee-ritual.neuronsarealsocool.chatgpt.site",
+      "note": "An implemented example of the cinematic planning and media workflow."
+    }
+  ],
+  "desktop-mobile-workflow": [
+    {
+      "label": "View GitHub repository",
+      "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites",
+      "note": "Desktop build and mobile refinement prompts for The Visual Story Method."
+    }
+  ],
+  "private-aviation-journey": [
+    {
+      "label": "View live website",
+      "url": "https://orvelle-private-aviation.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "racing-driver-profile": [
+    {
+      "label": "View live website",
+      "url": "https://kimi-grido1-racing.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "cinematic-wipe-studio": [
+    {
+      "label": "View live website",
+      "url": "https://plate-film-studio.neuronsarealsocool.chatgpt.site"
+    }
+  ],
+  "curved-film-archive": [
+    {
+      "label": "View live VHS archive",
+      "url": "https://curved-film-archive.neuronsarealsocool.chatgpt.site",
+      "note": "Dedicated twelve-film VHS implementation with The Film Room interface branding, approved sprite sheets and the original curved shelf and ink reveal."
+    }
+  ],
+  "point-cloud-companion": [
+    {
+      "label": "View live point-cloud website",
+      "url": "https://point-cloud-companion.neuronsarealsocool.chatgpt.site",
+      "note": "Dedicated implementation of the particle-bust specification, with neutral ION OS branding. The later car-film adaptation is not used as this pack’s example."
+    }
+  ],
+  "bird-species-atlas": [
+    {
+      "label": "View related rainforest adaptation",
+      "url": "https://canopy-rainforest-matt.neuronsarealsocool.chatgpt.site",
+      "note": "A related atlas composition adapted to rainforest animals. This pack specifies two birds and different specimen media."
+    }
+  ],
+  "lake-cabin-retreat": [
+    {
+      "label": "View Alder & Form",
+      "url": "https://alder-and-form.neuronsarealsocool.chatgpt.site/",
+      "note": "Alder & Form, built with Codex from the associated YouTube video reference."
+    }
+  ],
+  "rainy-harbour-penthouse": [
+    {
+      "label": "Visit Auralis",
+      "url": "https://auralis-harbour.neuronsarealsocool.chatgpt.site"
+    }
+  ]
+}
