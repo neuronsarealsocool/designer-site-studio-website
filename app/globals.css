@@ -56,3 +56,5 @@
 .repository-links{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:12px;margin-top:20px}.repository-link{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:44px;padding:11px 16px;border:1px solid #41464e;border-radius:7px;background:#191c20;color:#efefeb;font-size:.875rem;line-height:1.2;transition:background .2s,border-color .2s}.repository-link svg{flex-shrink:0}.repository-link:hover{background:#282d34;border-color:#9ba2ae}@media(max-width:420px){.repository-links{gap:8px}.repository-link{flex:1 1 200px;max-width:280px}}
 
 .brand-wordmark{display:flex;flex-direction:column;gap:5px}.brand-title{font-size:24px;line-height:1;letter-spacing:-.8px;font-weight:600}.brand-subtitle{font-size:11px;line-height:1;letter-spacing:2px;text-transform:uppercase;color:#b8bcc4;font-weight:400}@media(max-width:600px){.brand-title{font-size:21px}.brand-subtitle{font-size:10px;letter-spacing:1.6px}}
+
+.preview-clothes-rack-showroom{background:#21170f}.preview-clothes-rack-showroom .scene-primary{object-fit:contain}

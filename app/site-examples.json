@@ -104,5 +104,12 @@
       "label": "Visit Auralis",
       "url": "https://auralis-harbour.neuronsarealsocool.chatgpt.site"
     }
+  ],
+  "clothes-rack-showroom": [
+    {
+      "label": "View live Clothes Rack showroom",
+      "url": "https://ruddo-clay-showroom.neuronsarealsocool.chatgpt.site/",
+      "note": "Independent procedural recreation with two perpendicular clothing walls, a mouse-controlled camera and a demonstration bag."
+    }
   ]
 }

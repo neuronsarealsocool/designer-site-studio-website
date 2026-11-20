@@ -2,7 +2,7 @@
 from pathlib import Path
 import argparse,json,subprocess,concurrent.futures,urllib.request
 from PIL import Image
-p=argparse.ArgumentParser();p.add_argument('--asset-cache',type=Path);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--asset-cache',type=Path);p.add_argument('--pack',help='Prepare thumbnails for only one pack');a=p.parse_args()
 root=Path(__file__).resolve().parents[1];cache=a.asset_cache or root/'work/asset-cache'
 data=json.loads((root/'app/library-data.json').read_text(encoding='utf-8'))
 out=root/'public/thumbs';out.mkdir(exist_ok=True)
@@ -19,7 +19,7 @@ def prepare(asset):
  if not dest.exists():subprocess.run(['ffmpeg','-v','error','-i',str(source),'-vf',f'scale={size[0]}:{size[1]}','-c:v','libwebp','-quality','82','-compression_level','5','-frames:v','1',str(dest)],check=True)
  asset['thumbnail']='/thumbs/'+name
  return url,asset['thumbnail']
-all_assets=[asset for pack in data for asset in pack['assets']]
+all_assets=[asset for pack in data if not a.pack or pack['id']==a.pack for asset in pack['assets']]
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:mapping=dict(x for x in pool.map(prepare,all_assets) if x)
 for pack in data:
  for key in ('primary','secondary'):

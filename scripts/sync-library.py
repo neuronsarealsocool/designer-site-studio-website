@@ -8,6 +8,7 @@ examples=json.loads((root/'app/site-examples.json').read_text(encoding='utf-8'))
 meta={
 'architectural-landscape':('Architecture','Layered landscapes. Exceptional perspectives.',['Parallax','Layered hero','Property'],'warm residence cutout','warm sunset sky',None),
 'coffee-product-carousel':('Commerce','A considered product experience, down to the last detail.',['Product selector','Commerce','Editorial'],'01-caramel-cloud','hero-background-4k',None),
+'clothes-rack-showroom':('Commerce','A 3D clothing showroom with two racks, a responsive camera and interactive product browsing.',['Three.js','3D showroom','Product browsing'],'approved showroom preview',None,None),
 'orbital-portals':('Interactive','A cinematic portal to somewhere completely different.',['Canvas','Video transitions','Space'],'mercury',None,'mars bg'),
 'alpine-editorial':('Architecture','An editorial escape with room to breathe.',['Hospitality','Editorial','Gallery'],'hero',None,None),
 'electric-vehicle-explorer':('Interactive','Explore a product through motion, details and material.',['Hotspots','Product explorer','Video'],'exterior-polished',None,'hood-hover-forward'),

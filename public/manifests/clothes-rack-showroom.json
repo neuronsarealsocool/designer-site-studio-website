@@ -1,0 +1,21 @@
+{
+  "title": "Clothes Rack Showroom",
+  "assets": [
+    {
+      "id": "showroom-preview",
+      "role": "approved showroom preview",
+      "url": "https://lapis-slate-xvar.here.now/library/clothes-rack-showroom/media/b89477202a0c6f.jpg",
+      "bytes": 50719,
+      "sha256": "b89477202a0c6fb98d2b3fa4af7453729a2bcb8cf6f35a9c0240e62390c79870",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "showroom-source",
+      "role": "ready-to-run showroom source",
+      "url": "https://lapis-slate-xvar.here.now/library/clothes-rack-showroom/media/763513fcde284d.zip",
+      "bytes": 311256,
+      "sha256": "763513fcde284d0a77ae3d66117b90d32a1921bdb718581df2fe04e51fe7ab1c",
+      "type": "application/zip"
+    }
+  ]
+}
